@@ -13,7 +13,6 @@ main() {
    
    return 0;
 }
-
 // Function definition
 void func( void ) {
    static int i = 5; // local static variable
