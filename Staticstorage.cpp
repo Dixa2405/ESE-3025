@@ -9,8 +9,7 @@ static int count = 10; /* Global variable */
 main() {
    while(count--) {
       func();
-   }
-   
+   } 
    return 0;
 }
 // Function definition
