@@ -1,6 +1,5 @@
 #include<stdlib.h>
 #include<stdio.h>
-
 int comparator(void *pa ,void *pb)
 {
 	int a =*((int*)pa);
