@@ -34,5 +34,6 @@ for(int i=1; i<vsize; i++)
     count++;
 }
 cout<<token<<" : "<<count<<endl;
+
 return 0;
 }
