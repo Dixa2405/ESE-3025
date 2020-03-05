@@ -11,7 +11,6 @@ int comparator(void *pa ,void *pb)
 		ret=1;
 	return ret ;
 }
-
  int main()
 {
 	 printf("Before sorting = ");
