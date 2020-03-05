@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 
+
 #define N 30
 int compar(const void *pa, const void *pb);      //compare function for comparing strings
 void fileCopy(FILE *fp);
